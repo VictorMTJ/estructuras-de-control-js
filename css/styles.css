@@ -11,14 +11,14 @@ body{
 
 }
 
-.navbar{
-    /* display: flex;
+/* .navbar{
+    display: flex;
     flex-direction: row; 
     width: 50px; 
     height: 25px; 
     background-color: #93a2a9;
-    border: 2px solid black; */
-}
+    border: 2px solid black;
+} */
 
 .navbar__list{
     display: flex;
