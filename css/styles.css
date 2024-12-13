@@ -11,18 +11,11 @@ body{
 
 }
 
-/* .navbar{
-    display: flex;
-    flex-direction: row; 
-    width: 50px; 
-    height: 25px; 
-    background-color: #93a2a9;
-    border: 2px solid black;
-} */
 
 .navbar__list{
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     justify-content: center;
 }
 
@@ -32,7 +25,5 @@ body{
     width: 50px;
     height: 25px;
     background-color: #93a2a9;
-    border: 2px solid black;
     justify-content: center;
-    
 }
